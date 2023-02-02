@@ -10,6 +10,14 @@ income when they are efficient or also be a way to stand out significantly from
 competitors. The main objective is to create a book recommendation system for
 users
 
+## Approaches
+
+   1. Understanding Datasets
+   2. Understanding The Business Problem
+   3. Data cleaning and preprocessing
+   4. Exploratory Data Analysis:
+   5. MODELING OF RECOMMENDATION SYSTEMS
+
 ## Results
 
 A book recommendation system can be a valuable tool for businesses that sell or
